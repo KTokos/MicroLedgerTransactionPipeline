@@ -1,0 +1,29 @@
+Python :
+
+    - "Transaction Generator"
+    - Create and append pending transactions to "pending_transactions.json"
+    - Transactions should follow the format of an ID, customerID, an amount, and a type like deposit or withdrawl
+    - Generate random transactions to simulate a real environment
+
+Java : 
+
+    - "Core Banking System"
+    - Should watch pending_transactions.json
+    - Needs to validate the transaction 
+        - Can't withdrawl more than balance
+    - Should apply a 1% interest bonus if the deposit is over 1k
+    - Saves the finalized, clean approved transactions into a file called "ledger.txt" or a database
+
+PHP :
+
+    - "Member Portal"
+    - Display a table of all transactions based on customer login
+    - Must calculate and display the current total balance at the top
+    - Add a status indicator, for approved and denied transactions
+
+Other Requirements :
+
+    - Automation, create a Bash script (pipeline.sh) that triggers the scripts in order
+    - Error Handling, figure out a way to handle processes running at the proper time
+    - Try to make the PHP page allow the user to input transcations and update the form 
+

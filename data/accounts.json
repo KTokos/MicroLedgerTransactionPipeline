@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3921d2cd-ad4f-4234-8bde-9de6f1463e58",
+        "customer_id": "1c939c22-b2ee-4922-8b92-1065405cf8d8",
+        "customer_name": "Alice",
+        "balance": 12756.6
+    },
+    {
+        "id": "74eebb0b-e2da-4498-b69a-78c2f033d026",
+        "customer_id": "fcea6252-8408-4fa9-b177-945e5c2e570b",
+        "customer_name": "Bob",
+        "balance": 30830.53
+    },
+    {
+        "id": "ebb3d0ce-cb1e-44f1-a9c2-bdb31bc89cb8",
+        "customer_id": "2fc404a9-0dfe-4c8c-b3af-9e8ab653c0e6",
+        "customer_name": "Charlie",
+        "balance": 43045.06
+    },
+    {
+        "id": "bd5108fa-f4d7-474b-810c-44990a1b2c35",
+        "customer_id": "b2afa650-f517-4b7b-998c-73416b5d572b",
+        "customer_name": "Diana",
+        "balance": 30619.13
+    },
+    {
+        "id": "0f612490-b76f-48f8-9d40-511e2dbdb4e8",
+        "customer_id": "50599de7-5c42-468c-a958-27760c1a838e",
+        "customer_name": "Eve",
+        "balance": 15867.53
+    }
+]
