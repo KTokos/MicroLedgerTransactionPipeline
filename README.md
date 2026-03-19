@@ -58,7 +58,7 @@ The system is divided into three distinct stages:
 To run the entire pipeline (Generate -> Process -> Report) in one go:
 ```bash
 ./run_all.sh
-
+```
 ---
 
 ## Tech Stack
