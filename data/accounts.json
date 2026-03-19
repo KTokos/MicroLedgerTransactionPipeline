@@ -1,32 +1,32 @@
 [
     {
-        "id": "3921d2cd-ad4f-4234-8bde-9de6f1463e58",
-        "customer_id": "1c939c22-b2ee-4922-8b92-1065405cf8d8",
+        "id": "a5318f1d-0c28-4c6b-a2d5-4d57718ace97",
+        "customer_id": "9f97f452-1998-4b64-9bc0-206d5f2e655c",
         "customer_name": "Alice",
-        "balance": 18057.31
+        "balance": 14942.72
     },
     {
-        "id": "74eebb0b-e2da-4498-b69a-78c2f033d026",
-        "customer_id": "fcea6252-8408-4fa9-b177-945e5c2e570b",
+        "id": "433363d9-63d8-4d51-8743-c83efa0f3788",
+        "customer_id": "3f5821cb-3926-49fd-94f0-a1fbdcee4cc7",
         "customer_name": "Bob",
-        "balance": 24006.32
+        "balance": 2563.71
     },
     {
-        "id": "ebb3d0ce-cb1e-44f1-a9c2-bdb31bc89cb8",
-        "customer_id": "2fc404a9-0dfe-4c8c-b3af-9e8ab653c0e6",
+        "id": "075dbd85-d6d2-43f2-95c1-e30ee1ad62cf",
+        "customer_id": "f8699019-64b7-40b6-9736-64e5ff8b75de",
         "customer_name": "Charlie",
-        "balance": 40397.53
+        "balance": 36417.27
     },
     {
-        "id": "bd5108fa-f4d7-474b-810c-44990a1b2c35",
-        "customer_id": "b2afa650-f517-4b7b-998c-73416b5d572b",
+        "id": "7b117ce8-c252-4308-8d4f-c41d03021892",
+        "customer_id": "eba7083d-1c86-4768-ac77-e2362a5bef4c",
         "customer_name": "Diana",
-        "balance": 34074.11
+        "balance": 4831.82
     },
     {
-        "id": "0f612490-b76f-48f8-9d40-511e2dbdb4e8",
-        "customer_id": "50599de7-5c42-468c-a958-27760c1a838e",
+        "id": "92405963-9cda-48b2-a460-265ef506e2b0",
+        "customer_id": "8624ad70-9fb2-4d4d-abb2-f81db40e3c57",
         "customer_name": "Eve",
-        "balance": 17817.05
+        "balance": 19107.43
     }
 ]

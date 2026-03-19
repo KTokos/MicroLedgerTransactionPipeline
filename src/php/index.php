@@ -95,7 +95,7 @@
         <tbody>
             <?php foreach ($accounts as $account): ?>
                 <?php 
-                    $isLow = $account['balance'] < 15000; // Highlight if under $15k
+                    $isLow = $account['balance'] < 5000; // Highlight if under $5k
                     $balanceClass = $isLow ? 'low-balance' : 'good-balance'; 
                 ?>
                 <tr>
