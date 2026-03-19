@@ -54,6 +54,11 @@ The system is divided into three distinct stages:
     ```
     View the results at `http://localhost:8000`.
 
+### Quick Start
+To run the entire pipeline (Generate -> Process -> Report) in one go:
+```bash
+./run_all.sh
+
 ---
 
 ## Tech Stack
