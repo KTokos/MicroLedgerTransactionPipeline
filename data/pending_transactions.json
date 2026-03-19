@@ -1,72 +1,72 @@
 [
     {
-        "id": "8d33672e-4412-40f2-9355-904f24d86ec9",
+        "id": "f0b2a3f6-92b9-4748-bb75-e8bdb44fbcec",
         "customer_id": "b2afa650-f517-4b7b-998c-73416b5d572b",
-        "amount": 5920.28,
-        "timestamp": "2026-03-18T15:10:19.627139",
+        "amount": 9243.93,
+        "timestamp": "2026-03-19T11:39:08.317821",
+        "type": "withdrawal"
+    },
+    {
+        "id": "18ec7476-5a61-4460-8d38-602e64f59acf",
+        "customer_id": "b2afa650-f517-4b7b-998c-73416b5d572b",
+        "amount": 4862.85,
+        "timestamp": "2026-03-19T11:39:08.317837",
         "type": "deposit"
     },
     {
-        "id": "1d8df514-6fe5-4856-a056-9586d5e18808",
-        "customer_id": "fcea6252-8408-4fa9-b177-945e5c2e570b",
-        "amount": 7116.1,
-        "timestamp": "2026-03-18T15:10:19.627157",
-        "type": "withdrawal"
-    },
-    {
-        "id": "4d1eb7a2-4175-4dc6-abf7-d59579440d81",
+        "id": "6b09132f-21d8-4656-80ba-19428cd08ff2",
         "customer_id": "b2afa650-f517-4b7b-998c-73416b5d572b",
-        "amount": 173.6,
-        "timestamp": "2026-03-18T15:10:19.627164",
+        "amount": 1623.66,
+        "timestamp": "2026-03-19T11:39:08.317843",
         "type": "withdrawal"
     },
     {
-        "id": "d0e1bcd0-5a31-4dc7-9629-04d9dd003ef2",
+        "id": "0a26ab3b-a190-4f1e-b875-411a39a27858",
         "customer_id": "b2afa650-f517-4b7b-998c-73416b5d572b",
-        "amount": 8687.7,
-        "timestamp": "2026-03-18T15:10:19.627168",
-        "type": "deposit"
-    },
-    {
-        "id": "313521be-904a-4725-b4fd-aa1f242dc80a",
-        "customer_id": "50599de7-5c42-468c-a958-27760c1a838e",
-        "amount": 4257.13,
-        "timestamp": "2026-03-18T15:10:19.627171",
-        "type": "deposit"
-    },
-    {
-        "id": "cc8c801f-5756-47f6-85f7-d5bca0311f20",
-        "customer_id": "fcea6252-8408-4fa9-b177-945e5c2e570b",
-        "amount": 7199.76,
-        "timestamp": "2026-03-18T15:10:19.627174",
+        "amount": 5880.29,
+        "timestamp": "2026-03-19T11:39:08.317846",
         "type": "withdrawal"
     },
     {
-        "id": "81a8598c-25de-45c9-b95e-aee034c51e0b",
-        "customer_id": "50599de7-5c42-468c-a958-27760c1a838e",
-        "amount": 2350.18,
-        "timestamp": "2026-03-18T15:10:19.627177",
+        "id": "623587dc-3ccb-4f51-9eab-e1cd25ff04d9",
+        "customer_id": "2fc404a9-0dfe-4c8c-b3af-9e8ab653c0e6",
+        "amount": 3994.03,
+        "timestamp": "2026-03-19T11:39:08.317850",
         "type": "withdrawal"
     },
     {
-        "id": "e1faff26-2a5d-4d2e-bb17-b2cdc7d22dcf",
+        "id": "2b8b33d5-f113-473c-8f3d-0b4094ce096d",
         "customer_id": "1c939c22-b2ee-4922-8b92-1065405cf8d8",
-        "amount": 7485.04,
-        "timestamp": "2026-03-18T15:10:19.627179",
-        "type": "deposit"
-    },
-    {
-        "id": "a95a8001-3671-4234-ab9f-b35804794b51",
-        "customer_id": "1c939c22-b2ee-4922-8b92-1065405cf8d8",
-        "amount": 1448.56,
-        "timestamp": "2026-03-18T15:10:19.627182",
-        "type": "deposit"
-    },
-    {
-        "id": "1c347844-dd32-4e90-970e-ef901e0ce7e7",
-        "customer_id": "b2afa650-f517-4b7b-998c-73416b5d572b",
-        "amount": 5318.88,
-        "timestamp": "2026-03-18T15:10:19.627184",
+        "amount": 3722.23,
+        "timestamp": "2026-03-19T11:39:08.317854",
         "type": "withdrawal"
+    },
+    {
+        "id": "0b3d72ca-5d67-461c-a35c-3fc86d0888d6",
+        "customer_id": "b2afa650-f517-4b7b-998c-73416b5d572b",
+        "amount": 5970.1,
+        "timestamp": "2026-03-19T11:39:08.317857",
+        "type": "deposit"
+    },
+    {
+        "id": "ce4c5ed7-adb8-4b19-90bb-cdf3c9351b26",
+        "customer_id": "fcea6252-8408-4fa9-b177-945e5c2e570b",
+        "amount": 7417.48,
+        "timestamp": "2026-03-19T11:39:08.317860",
+        "type": "deposit"
+    },
+    {
+        "id": "fb1e07a2-1da7-4d66-8190-b50fc65d9fd9",
+        "customer_id": "2fc404a9-0dfe-4c8c-b3af-9e8ab653c0e6",
+        "amount": 4561.28,
+        "timestamp": "2026-03-19T11:39:08.317862",
+        "type": "withdrawal"
+    },
+    {
+        "id": "3c67615f-d818-41b4-aa20-6bc15e59b6e7",
+        "customer_id": "2fc404a9-0dfe-4c8c-b3af-9e8ab653c0e6",
+        "amount": 5849.29,
+        "timestamp": "2026-03-19T11:39:08.317865",
+        "type": "deposit"
     }
 ]
