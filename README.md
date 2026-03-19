@@ -1,4 +1,4 @@
-# MicroLedger: Multi-Language Banking Pipeline
+# MicroLedger: Banking Pipeline
 
 MicroLedger is a localized banking simulation that demonstrates a complete data lifecycle. The project integrates **Python** for data generation, **Java** for core business logic and transaction processing, and **PHP** for a real-time member dashboard.
 
